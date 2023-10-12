@@ -1,0 +1,49 @@
+state, medianHomePrice ,medianHomePriceYearOnYearGrowth, gdp_per_capita , population_states ,industries,value_of_100
+New York,819900,-1.8,108380,20201249,Finance,102.23
+California,785900,-5.8,96222,39538223,Information,95.26
+Hawaii,720200,1.4,71215,1455271,Real estate,90.76
+District of Columbia,668250,2.8,239861,689545,Federal civilian government,89.82
+Washington,618000,-5.4,97805,7705281,Information,100.38
+Massachusetts,614700,1.8,103340,7029917,Services,97.92
+Colorado,580900,-4.1,85816,5773714,Real estate,103.65
+Utah,529600,-8,76487,3271616,Manufacturing,109.91
+Oregon,510900,-3.2,74492,4237256,Manufacturing,100.72
+New Jersey,477600,5,83810,9288994,Real estate,93.44
+Rhode Island,462100,7.5,67358,1097379,Real estate,98.82
+Idaho,460900,9.2,58855,1839106,Real estate,111.26
+New Hampshire,452700,4.4,78281,1377529,Real estate,98.96
+Virginia,440200,-0.2,77875,8631393,Services,107.71
+Arizona,436100,-6.2,65096,7151502,Real estate,114.82
+Nevada,428100,8.1,71990,3104614,Real estate,107.57
+Maryland,421800,0.8,79111,6177224,Real estate,99.65
+Florida,407200,-0.4,65390,21538187,Real estate,103.74
+Connecticut,393700,6.6,91763,3605944,Finance,98.66
+Vermont,385300,5.3,65279,643077,Real estate,102.33
+Alaska,379600,4.5,86902,733391,Mining,98.35
+Tennessee,377200,2.4,71198,6910840,Manufacturing,114.17
+Georgia,375300,0.9,72340,10214860,Real estate,110.62
+South Carolina,374200,2.1,58398,5118425,Manufacturing,110.18
+Maine,373700,6.1,63267,1363359,Real estate,105.96
+North Carolina,371100,2.9,71297,10439388,Manufacturing,110.30
+Texas,357800,4.4,81130,29145505,Manufacturing,108.65
+New Mexico,349200,0.6,58716,2117522,Mining,115.04
+Minnesota,341700,-2.2,81150,5706494,Manufacturing,110.69
+Delaware,327300,1.3,89785,989948,Finance,103.84
+West Virginia,304400,4.2,53939,1793716,Mining,112.48
+Wisconsin,297100,6,70728,5893718,Manufacturing,109.82
+Nebraska,290500,7.9,85931,1961504,Manufacturing,113.20
+Alabama,284900,1.3,56897,5024279,Manufacturing,116.97
+Illinois,280900,0,85111,12812508,Manufacturing,110.71
+Pennsylvania,278700,0,74109,13002700,Manufacturing,107.72
+Kansas,276300,2.1,74962,2937880,Manufacturing,114.61
+Wyoming,276000,-12.5,81564,576851,Mining,109.65
+Mississippi,271200,6.3,48744,2961279,Manufacturing,117.90
+Arkansas,258100,7.5,56115,3011524,Manufacturing,115.18
+Indiana,258000,3.9,69203,6785528,Manufacturing,110.34
+Louisiana,257400,-2.3,63031,4657757,Manufacturing,112.31
+Missouri,255400,3,65847,6154913,Manufacturing,115.64
+Oklahoma,253200,5.1,60385,3959353,Mining,114.91
+Michigan,252200,1.6,64272,10077331,Manufacturing,110.26
+Kentucky,251300,3,60170,4505836,Manufacturing,115.59
+Ohio,240900,2.4,72550,1839106,Manufacturing,111.12
+Iowa,230600,3.3,75155,3190369,Manufacturing,114.86
